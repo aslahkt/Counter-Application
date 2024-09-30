@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+  }
+  .countpanel{
+    background-color: rgb(225, 225, 230) !important;
+    border-radius:40px !important;
+    box-shadow: #ffffff;
+    word-wrap: break-word;
+    height: 250px !important;
+    width: 30% !important;
+    border:none;
+  }
+  .section1{
+    height: 800% !important;
+
+  }
+  .counter {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .button {
+    background-color: rgb(76, 72, 72);
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 400px;
+    cursor: pointer;
+    
+  }
